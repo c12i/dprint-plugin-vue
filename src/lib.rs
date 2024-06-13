@@ -1,4 +1,4 @@
-mod configuration;
+pub mod configuration;
 mod format;
 mod plugin;
 
