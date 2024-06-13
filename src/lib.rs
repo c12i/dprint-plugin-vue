@@ -2,6 +2,7 @@ mod configuration;
 mod format;
 mod plugin;
 
+pub use configuration::Configuration;
 pub use format::format;
 
 #[cfg(all(target_arch = "wasm32", target_os = "unknown"))]
