@@ -3,6 +3,7 @@ name = "dprint-vue-plugin"
 version = "0.1.0"
 edition = "2021"
 license = "MIT"
+description = "a fork of dprint-plugin-vue"
 
 [lib]
 crate-type = ["lib", "cdylib"]
